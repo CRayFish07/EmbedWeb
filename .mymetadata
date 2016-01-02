@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="EmbedWeb"
+  id="myeclipse.1405729053166"
+  context-root="/EmbedWeb"
+  j2ee-spec="5.0"
+  archive="EmbedWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
